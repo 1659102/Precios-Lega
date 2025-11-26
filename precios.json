@@ -61,9 +61,9 @@
     { "id": "sistema32_blanco_plastico", "nombre": "SISTEMA 32mm (cadena plástica) BLANCA", "precio": 14300 },
     { "id": "sistema32_metalica", "nombre": "SISTEMA 32mm (cadena metálica)", "precio": 17500 },
     { "id": "sistema32_negro_plastico", "nombre": "SISTEMA 32mm (cadena plástica) NEGRO", "precio": 14300 },
-    { "id": "sistema38_blanco_plastico", "nombre": "SISTEMA 38mm (cadena plástica) BLANCA", "precio": 17500 },
-    { "id": "sistema38_metalica", "nombre": "SISTEMA 38mm (cadena metálica)", "precio": 19000 },
-    { "id": "sistema38_negro_plastico", "nombre": "SISTEMA 38mm (cadena plástica) NEGRO", "precio": 17500 }
+    { "id": "sistema38_blanco_plastico", "nombre": "SISTEMA 38mm (cadena plástica) BLANCA", "precio": 18200 },
+    { "id": "sistema38_metalica", "nombre": "SISTEMA 38mm (cadena metálica)", "precio": 19700 },
+    { "id": "sistema38_negro_plastico", "nombre": "SISTEMA 38mm (cadena plástica) NEGRO", "precio": 18200 }
   ],
   "adicionales": {
     "zocaloForrado": 7000,
